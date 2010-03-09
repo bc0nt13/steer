@@ -2,7 +2,7 @@
 //  TouchJoystickView.m
 //  Steer
 //
-//  Created by Bruno Conti on 3/6/10.
+//  Created by John Boiles on 3/6/10.
 //  Copyright 2010 __MyCompanyName__. All rights reserved.
 //
 
@@ -14,6 +14,8 @@
 
 - (id)initWithFrame:(CGRect)frame delegate:(id<TouchJoystickViewDelegate>)delegate {
     if (self = [super initWithFrame:frame]) {
+      self.backgroundColor = [UIColor clearColor];
+      self.opaque = NO;
       _delegate = delegate;
       // Initialization code
       _stick = [[UIView alloc] initWithFrame:CGRectMake(0, 0, 40, 40)];
