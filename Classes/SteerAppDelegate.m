@@ -2,7 +2,7 @@
 //  SteerAppDelegate.m
 //  Steer
 //
-//  Created by John Boiles on 3/6/10.
+//  Created by Bruno Conti on 3/6/10.
 //  Copyright __MyCompanyName__ 2010. All rights reserved.
 //
 

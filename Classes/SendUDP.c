@@ -2,7 +2,7 @@
  *  SendUDP.c
  *  Steer
  *
- *  Created by John Boiles on 7/2/09.
+ *  Created by Bruno Conti on 7/2/09.
  *  Copyright 2009 __MyCompanyName__. All rights reserved.
  *
  */
