@@ -3,7 +3,7 @@
 //  Steer
 //
 //  Created by Bruno Conti on 3/8/10.
-//  Copyright 2010 Yelp. All rights reserved.
+//  Copyright 2010. All rights reserved.
 //
 
 #import "LookAndFeel.h"
